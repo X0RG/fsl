@@ -5,7 +5,7 @@
 
 typedef struct OsDriver {
   AppVecStatus (*scan_apps)(str paths[], u32 paths_count, AppVec* out_v);
-  AppLaunchStatus (*launch_app)(str id);
+  AppLaunchStatus (*launch_app)(str id, str url);
 } OsDriver;
 
 OsDriver mac_driver_init(void);

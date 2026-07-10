@@ -13,10 +13,11 @@ static AppVecStatus win_scan_applications(str paths[], u32 paths_count,
   return APPVEC_OK;
 }
 
-static AppLaunchStatus win_launch_application(str id) {
+static AppLaunchStatus win_launch_application(str id, str url) {
   // TODO: Call ShellExecuteA or CreateProcess
 
   (void)id;
+  (void)url;
   printf("[Windows] Launching application with ID: %s\n", id);
   return APPLAUNCH_OK;
 }

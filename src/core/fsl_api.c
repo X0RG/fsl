@@ -18,4 +18,6 @@ AppVecStatus fsl_scan_apps(str paths[], u32 paths_count, AppVec* out_v) {
   return global_driver.scan_apps(paths, paths_count, out_v);
 }
 
-AppLaunchStatus fsl_launch_app(str id) { return global_driver.launch_app(id); }
+AppLaunchStatus fsl_launch_app(str id, str url) {
+  return global_driver.launch_app(id, url);
+}

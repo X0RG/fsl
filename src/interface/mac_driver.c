@@ -114,9 +114,9 @@ static AppVecStatus mac_scan_apps(str paths[], u32 paths_count, AppVec* out_v) {
   return APPVEC_OK;
 }
 
-static AppLaunchStatus mac_launch_app(str id) {
+static AppLaunchStatus mac_launch_app(str id, str url) {
   if (!id || id[0] == '\0') return APPLAUNCH_ERR_NOT_FOUND;
-
+  (void)url;
   pid_t pid;
   char* argv[] = {"/usr/bin/open", "-b", (mut_str)id, NULL};
 

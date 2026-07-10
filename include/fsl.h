@@ -65,6 +65,6 @@ typedef struct AppVec {
 
 void fsl_api_init(void);
 AppVecStatus fsl_scan_apps(str paths[], u32 paths_count, AppVec* out_v);
-AppLaunchStatus fsl_launch_app(str id);
+AppLaunchStatus fsl_launch_app(str id, str url);
 
 #endif
