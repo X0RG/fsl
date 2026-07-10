@@ -1,0 +1,202 @@
+{
+	"info": {
+		"vec-len": 32,
+		"vec-cap": 32,
+		"buff-size-bytes": 2567,
+		"buff-cap-bytes": 2816
+	},
+	"data": [
+		{
+			"id": "gnome-language-selector.desktop",
+			"name": "Language Support",
+			"icon": "preferences-desktop-locale",
+			"url": "/usr/bin/gnome-language-selector"
+		},
+		{
+			"id": "im-config.desktop",
+			"name": "Input Method",
+			"icon": "input-keyboard",
+			"url": "im-config"
+		},
+		{
+			"id": "info.desktop",
+			"name": "TeXInfo",
+			"icon": "dialog-information",
+			"url": "info"
+		},
+		{
+			"id": "nm-connection-editor.desktop",
+			"name": "Advanced Network Configuration",
+			"icon": "preferences-system-network",
+			"url": "nm-connection-editor"
+		},
+		{
+			"id": "org.freedesktop.IBus.Setup.desktop",
+			"name": "IBus Preferences",
+			"icon": "ibus-setup",
+			"url": "ibus-setup"
+		},
+		{
+			"id": "org.gnome.Calculator.desktop",
+			"name": "Calculator",
+			"icon": "org.gnome.Calculator",
+			"url": "gnome-calculator"
+		},
+		{
+			"id": "org.gnome.Characters.desktop",
+			"name": "Characters",
+			"icon": "org.gnome.Characters",
+			"url": "/usr/bin/gnome-characters"
+		},
+		{
+			"id": "org.gnome.DiskUtility.desktop",
+			"name": "Disks",
+			"icon": "org.gnome.DiskUtility",
+			"url": "gnome-disks"
+		},
+		{
+			"id": "org.gnome.Logs.desktop",
+			"name": "Logs",
+			"icon": "org.gnome.Logs",
+			"url": "gnome-logs"
+		},
+		{
+			"id": "org.gnome.Loupe.desktop",
+			"name": "Image Viewer",
+			"icon": "org.gnome.Loupe",
+			"url": "loupe"
+		},
+		{
+			"id": "org.gnome.Nautilus.desktop",
+			"name": "Files",
+			"icon": "org.gnome.Nautilus",
+			"url": "nautilus --new-window"
+		},
+		{
+			"id": "org.gnome.Ptyxis.desktop",
+			"name": "Terminal",
+			"icon": "org.gnome.Ptyxis",
+			"url": "ptyxis"
+		},
+		{
+			"id": "org.gnome.TextEditor.desktop",
+			"name": "Text Editor",
+			"icon": "org.gnome.TextEditor",
+			"url": "gnome-text-editor"
+		},
+		{
+			"id": "org.gnome.Yelp.desktop",
+			"name": "Help",
+			"icon": "org.gnome.Yelp",
+			"url": "yelp"
+		},
+		{
+			"id": "org.gnome.baobab.desktop",
+			"name": "Disk Usage Analyzer",
+			"icon": "org.gnome.baobab",
+			"url": "baobab"
+		},
+		{
+			"id": "org.gnome.clocks.desktop",
+			"name": "Clocks",
+			"icon": "org.gnome.clocks",
+			"url": "gnome-clocks"
+		},
+		{
+			"id": "org.gnome.font-viewer.desktop",
+			"name": "Fonts",
+			"icon": "org.gnome.font-viewer",
+			"url": "gnome-font-viewer"
+		},
+		{
+			"id": "org.gnome.seahorse.Application.desktop",
+			"name": "Passwords and Keys",
+			"icon": "org.gnome.seahorse.Application",
+			"url": "seahorse"
+		},
+		{
+			"id": "update-manager.desktop",
+			"name": "Software Updater",
+			"icon": "system-software-update",
+			"url": "/usr/bin/update-manager"
+		},
+		{
+			"id": "nvidia-settings.desktop",
+			"name": "NVIDIA X Server Settings",
+			"icon": "nvidia-settings",
+			"url": "/usr/bin/nvidia-settings"
+		},
+		{
+			"id": "org.gnome.Papers.desktop",
+			"name": "Document Viewer",
+			"icon": "org.gnome.Papers",
+			"url": "papers"
+		},
+		{
+			"id": "com.mattjakeman.ExtensionManager.desktop",
+			"name": "Extension Manager",
+			"icon": "com.mattjakeman.ExtensionManager",
+			"url": "extension-manager"
+		},
+		{
+			"id": "org.gnome.Settings.desktop",
+			"name": "Settings",
+			"icon": "org.gnome.Settings",
+			"url": "gnome-control-center"
+		},
+		{
+			"id": "net.nokyan.Resources.desktop",
+			"name": "Resources",
+			"icon": "net.nokyan.Resources",
+			"url": "resources"
+		},
+		{
+			"id": "btop.desktop",
+			"name": "btop++",
+			"icon": "btop",
+			"url": "btop"
+		},
+		{
+			"id": "nvim.desktop",
+			"name": "Neovim",
+			"icon": "nvim",
+			"url": "nvim"
+		},
+		{
+			"id": "localsend_app.desktop",
+			"name": "LocalSend",
+			"icon": "localsend_app",
+			"url": "localsend_app"
+		},
+		{
+			"id": "firmware-updater_firmware-updater.desktop",
+			"name": "Firmware Updater",
+			"icon": "/snap/firmware-updater/current/meta/gui/icon.png",
+			"url": "/snap/bin/firmware-updater"
+		},
+		{
+			"id": "snap-store_snap-store.desktop",
+			"name": "App Center",
+			"icon": "/snap/snap-store/current/bin/data/flutter_assets/assets/app-center.png",
+			"url": "/snap/bin/snap-store"
+		},
+		{
+			"id": "desktop-security-center_desktop-security-center.desktop",
+			"name": "Security Center",
+			"icon": "/snap/desktop-security-center/current/meta/gui/desktop-security-center.png",
+			"url": "/snap/bin/desktop-security-center"
+		},
+		{
+			"id": "code_code.desktop",
+			"name": "Visual Studio Code",
+			"icon": "/snap/code/current/meta/gui/vscode.png",
+			"url": "/snap/bin/code --force-user-env"
+		},
+		{
+			"id": "firefox_firefox.desktop",
+			"name": "Firefox",
+			"icon": "/snap/firefox/current/default256.png",
+			"url": "/snap/bin/firefox"
+		}
+	]
+}

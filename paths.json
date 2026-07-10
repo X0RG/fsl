@@ -1,0 +1,57 @@
+{
+    "linux": {
+        "xdg_standard": [
+            "/usr/share/applications",
+            "/usr/local/share/applications",
+            "~/.local/share/applications"
+        ],
+        "sandboxed_packages": [
+            "/var/lib/flatpak/exports/share/applications",
+            "~/.local/share/flatpak/exports/share/applications",
+            "/var/lib/snapd/desktop/applications"
+        ],
+        "portable_fallback": [
+            "~/.local/bin",
+            "~/Applications"
+        ]
+    },
+    "macos": {
+        "standard_bundles": [
+            "/Applications",
+            "/System/Applications",
+            "/System/Applications/Utilities",
+            "~/Applications"
+        ],
+        "package_managers": [
+            "/opt/homebrew/Caskroom",
+            "/usr/local/Caskroom"
+        ]
+    },
+    "windows": {
+        "registry_hives": [
+            {
+                "hive": "HKEY_LOCAL_MACHINE",
+                "path": "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
+                "architecture": "x64_or_Native"
+            },
+            {
+                "hive": "HKEY_LOCAL_MACHINE",
+                "path": "Software\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
+                "architecture": "x86_Wow64"
+            },
+            {
+                "hive": "HKEY_CURRENT_USER",
+                "path": "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
+                "architecture": "User_Specific"
+            }
+        ],
+        "start_menu_shortcuts": [
+            "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs",
+            "%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs"
+        ],
+        "package_managers": [
+            "C:\\Users\\%USERNAME%\\scoop\\apps",
+            "C:\\ProgramData\\chocolatey\\lib"
+        ]
+    }
+}
