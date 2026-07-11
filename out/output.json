@@ -1,0 +1,532 @@
+{
+	"info": {
+		"vec-len": 87,
+		"vec-cap": 128,
+		"buff-size-bytes": 8177,
+		"buff-cap-bytes": 8192
+	},
+	"data": [
+		{
+			"id": "com.microsoft.VSCode",
+			"name": "Visual Studio Code",
+			"icon": "/img/generic_app.png",
+			"url": "/Applications/Visual Studio Code.app"
+		},
+		{
+			"id": "org.localsend.localsendApp",
+			"name": "LocalSend",
+			"icon": "/img/generic_app.png",
+			"url": "/Applications/LocalSend.app"
+		},
+		{
+			"id": "io.balena.etcher",
+			"name": "balenaEtcher",
+			"icon": "/img/generic_app.png",
+			"url": "/Applications/balenaEtcher.app"
+		},
+		{
+			"id": "com.apple.Safari",
+			"name": "Safari",
+			"icon": "/img/generic_app.png",
+			"url": "/Applications/Safari.app"
+		},
+		{
+			"id": "net.imput.helium",
+			"name": "Helium",
+			"icon": "/img/generic_app.png",
+			"url": "/Applications/Helium.app"
+		},
+		{
+			"id": "com.brave.Browser",
+			"name": "Brave Browser",
+			"icon": "/img/generic_app.png",
+			"url": "/Applications/Brave Browser.app"
+		},
+		{
+			"id": "com.apple.siri.launcher",
+			"name": "Siri",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Siri.app"
+		},
+		{
+			"id": "com.apple.campo",
+			"name": "Campo",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Campo.app"
+		},
+		{
+			"id": "com.apple.Music",
+			"name": "Music",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Music.app"
+		},
+		{
+			"id": "com.apple.findmy",
+			"name": "FindMy",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/FindMy.app"
+		},
+		{
+			"id": "com.apple.QuickTimePlayerX",
+			"name": "QuickTime Player",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/QuickTime Player.app"
+		},
+		{
+			"id": "com.apple.Chess",
+			"name": "Chess",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Chess.app"
+		},
+		{
+			"id": "com.apple.games",
+			"name": "Games",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Games.app"
+		},
+		{
+			"id": "com.apple.PhotoBooth",
+			"name": "Photo Booth",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Photo Booth.app"
+		},
+		{
+			"id": "com.apple.iBooksX",
+			"name": "Books",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Books.app"
+		},
+		{
+			"id": "com.apple.weather",
+			"name": "Weather",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Weather.app"
+		},
+		{
+			"id": "com.apple.Notes",
+			"name": "Notes",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Notes.app"
+		},
+		{
+			"id": "com.apple.Image_Capture",
+			"name": "Image Capture",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Image Capture.app"
+		},
+		{
+			"id": "com.apple.Home",
+			"name": "Home",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Home.app"
+		},
+		{
+			"id": "com.apple.freeform",
+			"name": "Freeform",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Freeform.app"
+		},
+		{
+			"id": "com.apple.Passwords",
+			"name": "Passwords",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Passwords.app"
+		},
+		{
+			"id": "com.apple.Preview",
+			"name": "Preview",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Preview.app"
+		},
+		{
+			"id": "com.apple.news",
+			"name": "News",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/News.app"
+		},
+		{
+			"id": "com.apple.TextEdit",
+			"name": "TextEdit",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/TextEdit.app"
+		},
+		{
+			"id": "com.apple.podcasts",
+			"name": "Podcasts",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Podcasts.app"
+		},
+		{
+			"id": "com.apple.systempreferences",
+			"name": "System Settings",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/System Settings.app"
+		},
+		{
+			"id": "com.apple.TV",
+			"name": "TV",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/TV.app"
+		},
+		{
+			"id": "com.apple.apps.launcher",
+			"name": "Apps",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Apps.app"
+		},
+		{
+			"id": "com.apple.stocks",
+			"name": "Stocks",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Stocks.app"
+		},
+		{
+			"id": "com.apple.mail",
+			"name": "Mail",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Mail.app"
+		},
+		{
+			"id": "com.apple.Dictionary",
+			"name": "Dictionary",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Dictionary.app"
+		},
+		{
+			"id": "com.apple.AddressBook",
+			"name": "Contacts",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Contacts.app"
+		},
+		{
+			"id": "com.apple.backup.launcher",
+			"name": "Time Machine",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Time Machine.app"
+		},
+		{
+			"id": "com.apple.VoiceOverUtility",
+			"name": "VoiceOver Utility",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/VoiceOver Utility.app"
+		},
+		{
+			"id": "com.apple.Terminal",
+			"name": "Terminal",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/Terminal.app"
+		},
+		{
+			"id": "com.apple.ActivityMonitor",
+			"name": "Activity Monitor",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/Activity Monitor.app"
+		},
+		{
+			"id": "com.apple.screenshot.launcher",
+			"name": "Screenshot",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/Screenshot.app"
+		},
+		{
+			"id": "com.apple.grapher",
+			"name": "Grapher",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/Grapher.app"
+		},
+		{
+			"id": "com.apple.audio.AudioMIDISetup",
+			"name": "Audio MIDI Setup",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/Audio MIDI Setup.app"
+		},
+		{
+			"id": "com.apple.ScreenSharing",
+			"name": "Screen Sharing",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/Screen Sharing.app"
+		},
+		{
+			"id": "com.apple.SystemProfiler",
+			"name": "System Information",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/System Information.app"
+		},
+		{
+			"id": "com.apple.printcenter",
+			"name": "Print Center",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/Print Center.app"
+		},
+		{
+			"id": "com.apple.MigrateAssistant",
+			"name": "Migration Assistant",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/Migration Assistant.app"
+		},
+		{
+			"id": "com.apple.ScriptEditor2",
+			"name": "Script Editor",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/Script Editor.app"
+		},
+		{
+			"id": "com.apple.ColorSyncUtility",
+			"name": "ColorSync Utility",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/ColorSync Utility.app"
+		},
+		{
+			"id": "com.apple.Console",
+			"name": "Console",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/Console.app"
+		},
+		{
+			"id": "com.apple.DiskUtility",
+			"name": "Disk Utility",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/Disk Utility.app"
+		},
+		{
+			"id": "com.apple.BluetoothFileExchange",
+			"name": "Bluetooth File Exchange",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/Bluetooth File Exchange.app"
+		},
+		{
+			"id": "com.apple.DigitalColorMeter",
+			"name": "Digital Color Meter",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/Digital Color Meter.app"
+		},
+		{
+			"id": "com.apple.Magnifier",
+			"name": "Magnifier",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/Magnifier.app"
+		},
+		{
+			"id": "com.apple.FontBook",
+			"name": "Font Book",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Font Book.app"
+		},
+		{
+			"id": "com.apple.FaceTime",
+			"name": "FaceTime",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/FaceTime.app"
+		},
+		{
+			"id": "com.apple.shortcuts",
+			"name": "Shortcuts",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Shortcuts.app"
+		},
+		{
+			"id": "com.apple.Maps",
+			"name": "Maps",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Maps.app"
+		},
+		{
+			"id": "com.apple.exposelauncher",
+			"name": "Mission Control",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Mission Control.app"
+		},
+		{
+			"id": "com.apple.Stickies",
+			"name": "Stickies",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Stickies.app"
+		},
+		{
+			"id": "com.apple.Photos",
+			"name": "Photos",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Photos.app"
+		},
+		{
+			"id": "com.apple.MobileSMS",
+			"name": "Messages",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Messages.app"
+		},
+		{
+			"id": "com.apple.ScreenContinuity",
+			"name": "iPhone Mirroring",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/iPhone Mirroring.app"
+		},
+		{
+			"id": "com.apple.calculator",
+			"name": "Calculator",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Calculator.app"
+		},
+		{
+			"id": "com.apple.VoiceMemos",
+			"name": "VoiceMemos",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/VoiceMemos.app"
+		},
+		{
+			"id": "com.apple.journal",
+			"name": "Journal",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Journal.app"
+		},
+		{
+			"id": "com.apple.GenerativePlaygroundApp",
+			"name": "Image Playground",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Image Playground.app"
+		},
+		{
+			"id": "com.apple.reminders",
+			"name": "Reminders",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Reminders.app"
+		},
+		{
+			"id": "com.apple.AppStore",
+			"name": "App Store",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/App Store.app"
+		},
+		{
+			"id": "com.apple.mobilephone",
+			"name": "Phone",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Phone.app"
+		},
+		{
+			"id": "com.apple.clock",
+			"name": "Clock",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Clock.app"
+		},
+		{
+			"id": "com.apple.Automator",
+			"name": "Automator",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Automator.app"
+		},
+		{
+			"id": "com.apple.helpviewer",
+			"name": "Tips",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Tips.app"
+		},
+		{
+			"id": "com.apple.iCal",
+			"name": "Calendar",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Calendar.app"
+		},
+		{
+			"id": "com.apple.VoiceOverUtility",
+			"name": "VoiceOver Utility",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/VoiceOver Utility.app"
+		},
+		{
+			"id": "com.apple.Terminal",
+			"name": "Terminal",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/Terminal.app"
+		},
+		{
+			"id": "com.apple.ActivityMonitor",
+			"name": "Activity Monitor",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/Activity Monitor.app"
+		},
+		{
+			"id": "com.apple.screenshot.launcher",
+			"name": "Screenshot",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/Screenshot.app"
+		},
+		{
+			"id": "com.apple.grapher",
+			"name": "Grapher",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/Grapher.app"
+		},
+		{
+			"id": "com.apple.audio.AudioMIDISetup",
+			"name": "Audio MIDI Setup",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/Audio MIDI Setup.app"
+		},
+		{
+			"id": "com.apple.ScreenSharing",
+			"name": "Screen Sharing",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/Screen Sharing.app"
+		},
+		{
+			"id": "com.apple.SystemProfiler",
+			"name": "System Information",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/System Information.app"
+		},
+		{
+			"id": "com.apple.printcenter",
+			"name": "Print Center",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/Print Center.app"
+		},
+		{
+			"id": "com.apple.MigrateAssistant",
+			"name": "Migration Assistant",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/Migration Assistant.app"
+		},
+		{
+			"id": "com.apple.ScriptEditor2",
+			"name": "Script Editor",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/Script Editor.app"
+		},
+		{
+			"id": "com.apple.ColorSyncUtility",
+			"name": "ColorSync Utility",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/ColorSync Utility.app"
+		},
+		{
+			"id": "com.apple.Console",
+			"name": "Console",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/Console.app"
+		},
+		{
+			"id": "com.apple.DiskUtility",
+			"name": "Disk Utility",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/Disk Utility.app"
+		},
+		{
+			"id": "com.apple.BluetoothFileExchange",
+			"name": "Bluetooth File Exchange",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/Bluetooth File Exchange.app"
+		},
+		{
+			"id": "com.apple.DigitalColorMeter",
+			"name": "Digital Color Meter",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/Digital Color Meter.app"
+		},
+		{
+			"id": "com.apple.Magnifier",
+			"name": "Magnifier",
+			"icon": "/img/generic_app.png",
+			"url": "/System/Applications/Utilities/Magnifier.app"
+		}
+	]
+}

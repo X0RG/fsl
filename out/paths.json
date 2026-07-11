@@ -13,6 +13,16 @@
         "portable_fallback": [
             "~/.local/bin",
             "~/Applications"
+        ],
+        "system_and_manual_binaries": [
+            "/usr/bin",
+            "/usr/local/bin",
+            "/opt"
+        ],
+        "developer_package_managers": [
+            "~/.cargo/bin",
+            "~/.npm-global/bin",
+            "~/go/bin"
         ]
     },
     "macos": {
@@ -22,9 +32,17 @@
             "/System/Applications/Utilities",
             "~/Applications"
         ],
+        "system_core_bundles": [
+            "/System/Library/CoreServices"
+        ],
         "package_managers": [
             "/opt/homebrew/Caskroom",
-            "/usr/local/Caskroom"
+            "/usr/local/Caskroom",
+            "/opt/homebrew/bin",
+            "/usr/local/bin"
+        ],
+        "application_support_helpers": [
+            "/Library/Application Support"
         ]
     },
     "windows": {
@@ -43,6 +61,16 @@
                 "hive": "HKEY_CURRENT_USER",
                 "path": "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
                 "architecture": "User_Specific"
+            },
+            {
+                "hive": "HKEY_LOCAL_MACHINE",
+                "path": "Software\\Microsoft\\Windows\\CurrentVersion\\App Paths",
+                "architecture": "Execution_Aliases_Global"
+            },
+            {
+                "hive": "HKEY_CURRENT_USER",
+                "path": "Software\\Microsoft\\Windows\\CurrentVersion\\App Paths",
+                "architecture": "Execution_Aliases_User"
             }
         ],
         "start_menu_shortcuts": [
@@ -51,7 +79,12 @@
         ],
         "package_managers": [
             "C:\\Users\\%USERNAME%\\scoop\\apps",
-            "C:\\ProgramData\\chocolatey\\lib"
+            "C:\\ProgramData\\chocolatey\\lib",
+            "%LOCALAPPDATA%\\Microsoft\\WindowsApps"
+        ],
+        "uwp_store_apps": [
+            "C:\\Program Files\\WindowsApps",
+            "C:\\ProgramData\\Microsoft\\Windows\\AppRepository"
         ]
     }
 }
